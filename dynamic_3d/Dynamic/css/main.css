@@ -1,0 +1,14 @@
+.thick{
+    font-weight: 900;
+    color: rgb(75, 15, 73);
+    text-align: left;
+}
+.thick1{
+    font-weight: 900;
+    color: rgb(35, 15, 73);
+    text-align: center;
+}
+.center1{
+    margin-right: 300px;
+    float: right;
+}
