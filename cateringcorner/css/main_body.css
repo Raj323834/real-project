@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img.b1{
+    height: 550px;
+}
+.vertical{
+    padding: 50px;
+}
+.btn-b2{
+    border-radius: 40%;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.center{
+    padding: 200px;
+    text-align: center;
+    color: white;
+}
+.center2{
+    text-align: center;
+    float: center;
+}
+.floa{
+    float: left;
+}
+.button_go {
+    background-color: #2f8d46;
+    color: #ffffff;
+    border-radius: 40px;
+}

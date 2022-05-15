@@ -1,0 +1,132 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.dark1{
+    background-color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.text{
+    color: white;
+
+}
+ul,li,ol{
+    margin: 0px;
+    list-style: none;
+}
+.a{
+    min-width: none;
+    max-width: 400px;
+}
+.header-top-bar ul{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    float: left;
+    width: 100%;
+    background-color: #01abce;
+    color: #ffff;
+}
+.a2{
+height: 70px;
+}
+img.a4{
+border-radius: 50%;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img.b1{
+    height: 550px;
+}
+.vertical{
+    padding: 50px;
+}
+.btn-b2{
+    border-radius: 40%;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+.center{
+    padding: 200px;
+    text-align: center;
+    color: white;
+}
+.center2{
+    text-align: center;
+    float: center;
+}
+.floa{
+    float: left;
+}
+.button_go {
+    background-color: #2f8d46;
+    color: #ffffff;
+    border-radius: 40px;
+}
+.btn-width{
+    width: 200px;
+}
+.pad{
+    padding-right: 100px;
+    width: 320px;
+}
+.pas{
+    width: 200px;
+}
+.b3{
+    margin-left: 20px;
+    height: 50px;
+}
+.b4{
+    overflow: scroll;
+    height: 100px;
+}
+.b54{
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.ui,li{
+        color: white;
+        text-decoration: none;
+
+}
+
+.ico{
+    height: 30px;
+    width: 30px;
+}
+.b542{
+    margin-top: 50px;
+}
+.b543{
+    color: black;
+    text-align: left;
+    text-decoration: none;
+    margin-top: 50px;
+}
+
+.b546{
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: left;
+    margin-top: 40px;
+}
+
+.boar{
+    border-color: #01abce 1px;
+    border-radius: 25px;
+}
+
+.brs{
+    margin: 50px;
+    width: 150px;
+}
