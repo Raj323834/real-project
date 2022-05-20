@@ -87,3 +87,11 @@ body {
     top: 50px;
     color: rgb(255, 255, 255);
 }
+
+.scrollindex{
+  background: url('../image/slide.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 800px;
+}
