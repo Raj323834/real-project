@@ -95,3 +95,63 @@ body {
   background-attachment: fixed;
   min-height: 800px;
 }
+
+/*-----spinner image code---*/
+.ab32{
+  position: absolute;
+  left: 100px;
+  top: 50px;
+  height: 100px;
+  width: 100px;
+}
+.ab33{
+  position: absolute;
+  left: 120px;
+  top: 70px;
+  height: 100px;
+  width: 100px;
+}
+.ab34{
+  position: absolute;
+  left: 600px;
+  top: 50px;
+  height: 100px;
+  width: 100px;
+}
+.ab35{
+  position: absolute;
+  left: 620px;
+  top: 70px;
+  height: 100px;
+  width: 100px;
+}
+.ab36{
+  position: absolute;
+  left: 100px;
+  top: 420px;
+  height: 100px;
+  width: 100px;
+}
+.ab37{
+  position: absolute;
+  left: 120px;
+  top: 400px;
+  height: 100px;
+  width: 100px;
+}
+.ab38{
+  position: absolute;
+  left: 600px;
+  top: 400px;
+  height: 100px;
+  width: 100px;
+}
+.ab39{
+  position: absolute;
+  left: 620px;
+  top: 420px;
+  height: 100px;
+  width: 100px;
+}
+
+
